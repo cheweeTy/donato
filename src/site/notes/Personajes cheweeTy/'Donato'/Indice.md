@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personajes-chewee-ty/donato/indice/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-# ==Índice==
+# Índice
 
 ## ARCO 1
 
