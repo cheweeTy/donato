@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/personajes-chewee-ty/donato/arco-1/capitulo-2-tbd/","dg-note-properties":{}}
 ---
 
+# CAPÍTULO 2 -- TBD
+
 `Revelar: Descubrir o manifestar lo ignorado o secreto.`
 
 Spark no pudo hacerlo, seguía abrazado al cuerpo ahora completamente inerte de su madre, empezaban a salir lágrimas, no muchas y sin saberlo, pero algo dentro de el entendía lo que acababa de pasar.
