@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/personajes-chewee-ty/donato/arco-1/capitulo-1-una-maldicion-perenne/","dg-note-properties":{}}
 ---
 
+# CAPÍTULO 1 -- UNA MALDICIÓN PERENNE
+
 `Calor: Sensación que se experimenta ante una elevada temperatura.`
 
 ###### [Por que ni si quiera me miras a los ojos?]
