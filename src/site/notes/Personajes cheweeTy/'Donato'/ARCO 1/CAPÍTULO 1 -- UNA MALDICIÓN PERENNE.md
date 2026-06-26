@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personajes-chewee-ty/donato/arco-1/capitulo-1-una-maldicion-perenne/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/personajes-chewee-ty/donato/arco-1/capitulo-1-una-maldicion-perenne/","dg-note-properties":{}}
 ---
 
 `Calor: Sensación que se experimenta ante una elevada temperatura.`
